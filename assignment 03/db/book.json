@@ -1,0 +1,29 @@
+[
+    {
+        "title": "The Design of Everyday Things",
+        "author": "oge",
+        "year": 2014,
+        "id": 1
+    },
+    {
+        "title": "Algorithms to Live By",
+        "author": "Brian Christian and Thomas L. Griffiths",
+        "year": 2016,
+        "id": 3
+    },
+    {
+        "title": "My new book",
+        "author": "Rising Odegua",
+        "year": 2022
+    }, 
+    {
+        "title": "Things fall apart",
+        "author": "Chinua Achebe",
+        "year": 2000
+    },
+    { 
+        "title": "No gree for anybody",
+        "author": "Emy",
+        "year": 2019
+    }
+]
